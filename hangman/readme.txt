@@ -1,0 +1,1 @@
+sadece 81 ili içeren, orjinal adam asmaca figürüne sahip ve istenirse belli komut girilene kadar oynanmaya sınırsız devam edilebilen hangman oyunu.
